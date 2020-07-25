@@ -44,7 +44,7 @@ Please open an issue, if you believe a project,
 
 I believe the following are the most essential documents to read first:
 1. [A brief for engineers, by a doctor, on hacking a ventilator for surge capacity in Covid19 patients](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit?usp=sharing)
-   Author: Dr. Eric Schulz, MBBS, FANZDA, an anesthetist/anesthesiologist from Australia.
+   Author: Dr. Erich Schulz, MBBS, FANZCA, an anesthetist/anesthesiologist from Australia.
 
     Dr. Schulz has now made it a 4-volume guide:
 
